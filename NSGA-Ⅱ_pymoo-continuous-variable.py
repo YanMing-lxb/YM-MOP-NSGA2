@@ -16,10 +16,10 @@
  -----------------------------------------------------------------------
 Author       : 焱铭
 Date         : 2023-04-18 11:21:07 +0800
-LastEditTime : 2023-09-15 15:43:03 +0800
+LastEditTime : 2023-09-15 15:46:30 +0800
 Github       : https://github.com/YanMing-lxb/
 FilePath     : \YM-MOP-NSGA2\NSGA-Ⅱ_pymoo-continuous-variable.py
-Description  : 改代码用于处理变量全为连续变量的情况
+Description  : 该代码用于处理变量全为连续变量的情况
  -----------------------------------------------------------------------
 '''
 
